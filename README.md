@@ -22,3 +22,11 @@ Fork this project and let your imagination run wild. There are no limits to what
 **JUST OVERENGINEER.**
 
 **YOU HAVE THE LICENSE TO DO IT.**
+
+## Example
+Here's my idea of what I'd do when I do this challenge:
+
+- Create an Elixir GraphQL API using Absinthe
+- Create the web application frontend using ReasonReact
+- Use Kubernetes to stitch together the web application
+- Create a mobile app using Flutter or bs-react-native
