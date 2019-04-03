@@ -11,7 +11,7 @@ That's where this challenge comes in.
 
 ## The Challenge
 
-The challenge is to create a todo app and overengineer it to its limits.
+The challenge is to create a TODO List App and overengineer it to its limits.
 
 - Make it with the most overkill tech you know.
 - Use the most exotic techniques that you can wield.
