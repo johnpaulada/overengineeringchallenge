@@ -1,6 +1,6 @@
-# Over Engineering Challenge
+# 🔥 Over Engineering Challenge
 
-## Rationale
+## Rationale 🤔
 
 Overengineering has been a pet peeve of many developers, i.e., we tend to make things more complicated than they should be.
 We try to make applications as simple as we can to avoid this problem.
@@ -9,7 +9,7 @@ But what if we break out of this for once? What if we do the **opposite**?
 
 That's where this challenge comes in.
 
-## The Challenge
+## The Challenge 💪
 
 The challenge is to create a TODO List App and overengineer it to its limits.
 
@@ -23,7 +23,7 @@ Fork this project and let your imagination run wild. There are no limits to what
 
 **YOU HAVE THE LICENSE TO DO IT.**
 
-## Example
+## Example 📜
 Here's my idea of what I'd do when I do this challenge:
 
 - Create an Elixir GraphQL API using Absinthe
