@@ -30,3 +30,6 @@ Here's my idea of what I'd do when I do this challenge:
 - Create the web application frontend using ReasonReact
 - Use Kubernetes to stitch together the web application
 - Create a mobile app using Flutter or bs-react-native
+
+## Social 💻
+Add a hashtag `#overengineeringchallenge` to your project when posting to social media!
