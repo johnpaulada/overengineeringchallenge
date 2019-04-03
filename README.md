@@ -17,7 +17,7 @@ The challenge is to create a TODO List App and overengineer it to its limits.
 - Use the most exotic techniques that you can wield.
 - Build it with the most overblown architectures. Design with the insanest user experience.
 
-Let your imagination run wild. There are no limits to what you can do.
+Fork this project and let your imagination run wild. There are no limits to what you can do.
 
 **JUST OVERENGINEER.**
 
